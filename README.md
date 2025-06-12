@@ -54,6 +54,8 @@
 
 ---
 
+![snake gif](https://github.com/LegitKillerOP/LegitKillerOP/blob/output/github-snake-dark.svg)
+
 ### 🔗 Let's Connect
 
 - 🌐 Portfolio: [legitkillerop.github.io/portfolio](https://legitkillerop.github.io/portfolio)
