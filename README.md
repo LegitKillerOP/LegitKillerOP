@@ -58,7 +58,7 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Portfolio: [legitkillerop.github.io/portfolio](https://legitkillerop.github.io/portfolio)
+- 🌐 Portfolio: [legit-portfolio.vercel.app](https://legit-portfolio.vercel.app)
 - ✉️ Gmail: [contact.legitkiller@gmail.com](mailto:contact.legitkiller@gmail.com)
 
 ---
